@@ -27,6 +27,10 @@ The goal of this project is to detect fraudulent credit card transactions using 
 - Accuracy is not a reliable metric
 
 ---
+# Data Preprocessing
+- Scaled 'Amount' and 'Time' features
+- Split data into training and testing sets
+- Maintained class distribution using stratified sampling
 
 # Tools Used
 - Python
