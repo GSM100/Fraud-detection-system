@@ -31,6 +31,11 @@ The goal of this project is to detect fraudulent credit card transactions using 
 - Scaled 'Amount' and 'Time' features
 - Split data into training and testing sets
 - Maintained class distribution using stratified sampling
+  
+# Model Building
+- Logistic Regression (baseline)
+- Random Forest (final model)
+- Evaluated using recall, precision, F1-score, ROC-AUC
 
 # Tools Used
 - Python
